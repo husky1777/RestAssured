@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-10T23:55:58 CDT" name="Suite" finished-at="2022-10-10T23:56:02 CDT" duration-ms="3923">
+    <groups>
+    </groups>
+    <test started-at="2022-10-10T23:55:58 CDT" name="Test" finished-at="2022-10-10T23:56:02 CDT" duration-ms="3923">
+      <class name="TestCases.TC_PetStoreAPIs">
+        <test-method signature="TC01_Get_Inventory()[pri:0, instance:TestCases.TC_PetStoreAPIs@747ddf94]" started-at="2022-10-10T23:55:58 CDT" name="TC01_Get_Inventory" finished-at="2022-10-10T23:56:00 CDT" duration-ms="2234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_Get_Inventory -->
+        <test-method signature="TC02_Post_Order()[pri:0, instance:TestCases.TC_PetStoreAPIs@747ddf94]" started-at="2022-10-10T23:56:00 CDT" name="TC02_Post_Order" finished-at="2022-10-10T23:56:02 CDT" duration-ms="1644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_Post_Order -->
+      </class> <!-- TestCases.TC_PetStoreAPIs -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

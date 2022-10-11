@@ -1,0 +1,2 @@
+cd E:\Automation Installations\Programs\RestAssured
+mvn clean install
